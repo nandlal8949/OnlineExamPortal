@@ -1,4 +1,4 @@
-# OnlineExamPortal
+# OnlineExamPortal (SpringBoot + Jsp)
 Online Exam Objective and Subjective Questions <br/>
 3 Roles - Admin, Proctor, HR <br/>
 Candidate can give online test and get marks <br/>
